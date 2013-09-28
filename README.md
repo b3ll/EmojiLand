@@ -3,7 +3,9 @@ Emoji Land
 
 Because Emoji are awesome and so is Objective-C... why not 🐑?
 
-Stuff will probably 💣.
+Stuff will probably 💣 because Git.
+
+Use the zipped up project if you actually want to mess with it.
 
 
 💻?
